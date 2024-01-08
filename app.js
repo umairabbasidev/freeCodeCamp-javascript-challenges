@@ -25,14 +25,14 @@
 
 var a = 9;
 
-// 6 ) Declare String Variables
+// 6) Declare String Variables
 
 var myFirstName;
 myFirstName = "Muhammad Umair"
 
 var myLastName = "Abbasi"
 
-// 7 ) Understanding Uninitialized Variables
+// 7) Understanding Uninitialized Variables
 
 
 var a;
@@ -55,6 +55,10 @@ studlyCapVar = 10;
 properCamelCase = "A String";
 titleCaseOver = 9000;
 
+// 9) Explore Differences Between the var and let Keywords
+
+let catName = "Oliver";
+let catSound = "Meow!";
 
 
 
