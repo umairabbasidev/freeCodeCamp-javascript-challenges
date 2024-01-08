@@ -25,6 +25,27 @@
 
 var a = 9;
 
+// 6 ) Declare String Variables
+
+var myFirstName;
+myFirstName = "Muhammad Umair"
+
+var myLastName = "Abbasi"
+
+// 7 ) Understanding Uninitialized Variables
+
+
+var a;
+var b;
+var c;
+
+ a = 5;
+ b = 10;
+ c = "I am a String !"
+
+ console.table([a,b,c])
+
+
 
 
 
