@@ -43,7 +43,7 @@ var c;
  b = 10;
  c = "I am a String !"
 
- console.table([a,b,c])
+ // console.table([a,b,c])
 
  // 8) Understanding Case Sensitivity in Variables
 
@@ -60,8 +60,12 @@ titleCaseOver = 9000;
 let catName = "Oliver";
 let catSound = "Meow!";
 
+// 10) Declare a Read-Only Variable with the const Keyword
 
-
+const FCC = "freeCodeCamp";
+let fact = "is cool!";
+fact = "is awesome!";
+console.log(FCC,fact)
 
 
 
