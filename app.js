@@ -6,4 +6,9 @@
 // 2) Declare JavaScript Variables
 
   var myName;
+
+  // 3) Storing Values with the Assignment Operator
+
+  var a;
+  a = 7;
   
