@@ -21,6 +21,11 @@
   var b;
   b = a;
 
+  // 5) Initializing Variables with the Assignment Operator
+
+var a = 9;
+
+
 
 
 
