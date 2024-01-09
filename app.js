@@ -78,4 +78,9 @@ const sum = 10 + 10;
 const difference = 45-33;
 // console.log(difference)
 
+// 13) Multiply Two Numbers with JavaScript
+
+const product = 8 * 10;
+// console.log(product)
+
   
