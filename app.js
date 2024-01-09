@@ -95,5 +95,12 @@ myVar++;
 // console.log(myVar)
 
 
+// 16) Decrement a Number with JavaScript
+let myVar2 = 11;
+myVar2--;
+// console.log(myVar2)
+
+
+
 
   
