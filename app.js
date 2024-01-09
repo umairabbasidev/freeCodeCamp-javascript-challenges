@@ -80,7 +80,7 @@ const difference = 45-33;
 
 // 13) Multiply Two Numbers with JavaScript
 
-const product = 8 * 10;
+// const product = 8 * 10;
 // console.log(product)
 
 // 14) Divide One Number by Another with JavaScript
@@ -99,6 +99,17 @@ myVar++;
 let myVar2 = 11;
 myVar2--;
 // console.log(myVar2)
+
+
+// 17) Create Decimal Numbers with JavaScript
+const ourDecimal = 5.7;
+
+const myDecimal = ourDecimal;
+// console.log(myDecimal)
+
+// 18) Multiply Two Decimals with JavaScript
+const product = 2.0 * 2.5;
+console.log(product)
 
 
 
