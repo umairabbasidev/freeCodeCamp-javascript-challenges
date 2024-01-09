@@ -68,6 +68,8 @@ fact = "is awesome!";
 console.log(FCC,fact)
 
 
+// 11) Add Two Numbers with JavaScript
 
+const sum = 10 + 10;
 
   
