@@ -111,6 +111,10 @@ const myDecimal = ourDecimal;
 const product = 2.0 * 2.5;
 console.log(product)
 
+// 19) Divide One Decimal by Another with JavaScript
+
+const quotient2 = 4.4 / 2.0; 
+console.log(quotient2)
 
 
 
