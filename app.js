@@ -117,5 +117,7 @@ const quotient2 = 4.4 / 2.0;
 console.log(quotient2)
 
 
-
+// 20) Finding a Remainder in JavaScript
+const remainder = 11 % 3;
+console.log(remainder)
   
