@@ -65,11 +65,17 @@ let catSound = "Meow!";
 const FCC = "freeCodeCamp";
 let fact = "is cool!";
 fact = "is awesome!";
-console.log(FCC,fact)
+// console.log(FCC,fact)
 
 
 // 11) Add Two Numbers with JavaScript
 
 const sum = 10 + 10;
+// console.log(sum)
+
+// 12) Subtract One Number from Another with JavaScript
+
+const difference = 45-33;
+// console.log(difference)
 
   
