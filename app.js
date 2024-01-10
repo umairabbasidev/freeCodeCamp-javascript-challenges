@@ -176,4 +176,15 @@ console.log(a,b,c)
 
 // 25) Escaping Literal Quotes in Strings
 
-const myStr = "I am a \"double quoted\" string inside \"double quotes\"."; 
+// const myStr = "I am a \"double quoted\" string inside \"double quotes\"."; 
+
+
+// 26) Quoting Strings with Single Quotes
+
+// const myStr = '<a href="http://www.example.com" target="_blank">Link</a>';
+
+// 26) Escape Sequences in Strings
+
+const myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; 
+console.log(myStr)
+
