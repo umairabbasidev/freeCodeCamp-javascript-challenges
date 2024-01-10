@@ -174,3 +174,6 @@ c /= 11;
 
 console.log(a,b,c)
 
+// 25) Escaping Literal Quotes in Strings
+
+const myStr = "I am a \"double quoted\" string inside \"double quotes\"."; 
