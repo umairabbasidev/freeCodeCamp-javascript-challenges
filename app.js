@@ -185,6 +185,23 @@ console.log(a,b,c)
 
 // 26) Escape Sequences in Strings
 
-const myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; 
-console.log(myStr)
+// const myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; 
+// console.log(myStr)
+
+
+
+// 27) Concatenating Strings with Plus Operator
+
+// const myStr = "This is the start." + " This is the end."; 
+// console.log(myStr)
+
+
+// 28) Concatenating Strings with the Plus Equals Operator
+
+
+
+// let myStr = "This is the first sentence. ";
+// myStr += "This is the second sentence."
+
+// console.log(myStr)
 
