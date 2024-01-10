@@ -205,3 +205,23 @@ console.log(a,b,c)
 
 // console.log(myStr)
 
+
+// 29) Constructing Strings with Variables
+
+// const myName = "Muhammad Umair Abbasi";
+// const myStr = "My name is " + myName + " and I an well";
+// console.log(myStr)
+
+
+// 30) Appending Variables to Strings Plus Equals Operator
+
+/*const someAdjective = "Wonderful";
+let myStr = "Learning to code is "
+
+myStr += someAdjective
+// myStr = myStr + someAdjective // same as above
+
+console.log(myStr)*/
+
+
+
