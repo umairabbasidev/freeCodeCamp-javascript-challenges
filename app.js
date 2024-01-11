@@ -244,3 +244,10 @@ console.log(myStr)*/
 // let myStr = "Jello World";
 // myStr = "Hello World"; 
 // console.log(myStr)
+
+
+// 34) Use Bracket Notation to Find the Nth Character in a String
+// const lastName = "Lovelace";
+
+// const thirdLetterOfLastName = lastName[2]; 
+// console.log(thirdLetterOfLastName)
