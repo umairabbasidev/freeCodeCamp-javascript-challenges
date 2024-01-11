@@ -238,3 +238,9 @@ console.log(myStr)*/
 // const lastName = "Lovelace";
 // firstLetterOfLastName = lastName[0]; 
 // console.log(firstLetterOfLastName)
+
+// 33) Understand String Immutability
+
+// let myStr = "Jello World";
+// myStr = "Hello World"; 
+// console.log(myStr)
