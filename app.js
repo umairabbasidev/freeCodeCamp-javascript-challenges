@@ -303,3 +303,55 @@ const secondToLastLetterOfLastName = lastName[lastName.length-2];
 // const myArray = [18, 64, 99];
 // myArray[0] = 45;
 // console.log(myArray)
+
+
+// 41) Access Multi-Dimensional Arrays With Indexes
+
+// const myArray = [
+//   [1, 2, 3],
+//   [4, 5, 6],
+//   [7, 8, 9],
+//   [[10, 11, 12], 13, 14],
+// ];
+
+// const myData = myArray[2][1];
+// console.log(myData)
+
+// 42) Manipulate Arrays With push Method
+
+
+// const myArray = [["John", 23], ["cat", 2]];
+// const returnVal = myArray.push(["dog", 3]);
+// console.log(returnVal)
+// console.log(myArray)
+
+// 43) Manipulate Arrays With pop Method
+
+
+// const myArray = [["John", 23], ["cat", 2]];
+// const  removedFromMyArray = myArray.pop()
+// console.log(removedFromMyArray)
+// console.log(myArray)
+
+// 44) Manipulate Arrays With shift Method
+
+// const myArray = [["John", 23], ["dog", 3]];
+
+// const removedFromMyArray = myArray.shift()
+// console.log(removedFromMyArray)
+
+
+// 45) Manipulate Arrays With unshift Method
+
+// const myArray = [["John", 23], ["dog", 3]];
+// myArray.shift();
+// myArray.unshift(["Paul", 35])
+// console.log(myArray)
+
+// 46) Shopping List
+
+// const myList = [];
+
+// myList.push(["Chocolate Bar", 15],["pen",5],["pencil",10],["laptop",20],["computer",30])
+// console.log(myList)
+
