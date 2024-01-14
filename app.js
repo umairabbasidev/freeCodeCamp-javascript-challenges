@@ -274,12 +274,32 @@ const secondToLastLetterOfLastName = lastName[lastName.length-2];
 
 // 36) Word Blanks
 
-const myNoun = "dog";
-const myAdjective = "big";
-const myVerb = "ran";
-const myAdverb = "quickly";
+// const myNoun = "dog";
+// const myAdjective = "big";
+// const myVerb = "ran";
+// const myAdverb = "quickly";
 
-const wordBlanks = myAdjective + " " +  myNoun + " " + myVerb + " " + myAdverb; // Change this line
+// const wordBlanks = myAdjective + " " +  myNoun + " " + myVerb + " " + myAdverb; // Change this line
 
 // console.log(wordBlanks)
 
+
+// 37) Store Multiple Values in one Variable using JavaScript Arrays
+
+// const myArray = ["name Umair Abbasi",21];
+
+// 38) Nest one Array within Another Array
+
+// const myArray = [["hp laptops",20],["dell laptops",40]];
+
+// 39) Access Array Data with Indexes
+
+// const myArray = [50, 60, 70];
+// const myData = myArray[0]
+// console.log(myData)
+
+// 40) Modify Array Data With Indexes
+
+// const myArray = [18, 64, 99];
+// myArray[0] = 45;
+// console.log(myArray)
