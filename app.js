@@ -260,3 +260,14 @@ console.log(myStr)*/
 
 // console.log(lastLetterOfLastName)
 
+
+// 36) Use Bracket Notation to Find the Nth-to-Last Character in a String
+
+const lastName = "Lovelace";
+
+
+const secondToLastLetterOfLastName = lastName[lastName.length-2]; 
+
+// console.log(lastName)
+// console.log(secondToLastLetterOfLastName)
+// console.log(lastName.length-2)
