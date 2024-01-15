@@ -355,3 +355,8 @@ const secondToLastLetterOfLastName = lastName[lastName.length-2];
 // myList.push(["Chocolate Bar", 15],["pen",5],["pencil",10],["laptop",20],["computer",30])
 // console.log(myList)
 
+// 47) Write Reusable JavaScript with Functions
+// function reusableFunction(){
+//   console.log("Hi World")
+// }
+// reusableFunction()
