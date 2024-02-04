@@ -145,4 +145,43 @@ multi-line comment */
 // b /= 4;
 // c /= 11;
 
+// 25) Escaping Literal Quotes in Strings
+
+// const myStr = "I am a \"double quoted\" string inside \"double quotes\".";
+
+// 26)
+
+// 27) Escape Sequences in Strings 
+
+// FirstLine
+//     \SecondLine
+// ThirdLine
+
+// const myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; 
+// console.log(myStr)
+
+// 28)  Concatenating Strings with Plus Operator
+
+// const myStr = "This is the start." + " This is the end.";
+
+// 29) Concatenating Strings with the Plus Equals Operator
+
+// let myStr = "This is the first sentence.";
+// myStr+= " This is the second sentence.";
+// console.log(myStr)
+
+// 30) Constructing Strings with Variables
+
+// const myName = "Muhammad Umair Abbasi";
+// const myStr = "My name is " + myName + " and I am well!";
+// console.log(myStr)
+
+// 31) Appending Variables to Strings
+
+// const someAdjective = "awesome!";
+// let myStr = "Learning to code is ";
+// myStr+= someAdjective;
+
+// console.log(myStr)
+
 
