@@ -381,3 +381,75 @@ multi-line comment */
 // }
 // processed =  processArg(7)
 // console.log(processed)
+
+// 57) Stand in Line
+
+// function nextInLine(arr, item) {
+
+//   arr.push(item)
+//   const removed = arr.shift();
+  
+//   return removed;
+// }
+// let testArr = [1, 2, 3, 4, 5];
+
+// // Display code
+// console.log("Before: " + JSON.stringify(testArr));
+// console.log(nextInLine(testArr, 6));
+// console.log("After: " + JSON.stringify(testArr));
+
+
+// 58) Understanding Boolean Values
+
+// function welcomeToBooleans() {
+//  return true; 
+// }
+
+// 59) Use Conditional Logic with If Statements
+// function trueOrFalse(wasThatTrue) {
+// if(wasThatTrue){
+
+// return "Yes, that was true"
+// }
+// return "No, that was false"
+// }
+// const returnValue = trueOrFalse(true)
+// console.log(returnValue)
+
+// 60) Comparison with the Equality Operator
+// function testEqual(val) {
+//  if (val==12) { // Change this line
+//    return "Equal";
+//  }
+//  return "Not Equal";
+// }
+
+// console.log(testEqual(10));
+// console.log(testEqual(12));
+// console.log(testEqual('12'));
+
+
+// 61) Comparison with the Strict Equality Operator
+// function testStrict(val) {
+//  if (val===7) { // Change this line
+//    return "Equal";
+//  }
+//  return "Not Equal";
+// }
+
+// console.log(testStrict(10));
+// console.log(testStrict(7));
+// console.log(testStrict('7'));
+
+// 62) Practice comparing different values
+
+// function compareEquality(a, b) {
+//  if (a === b) { // Change this line
+//    return "Equal";
+//  }
+//  return "Not Equal";
+// }
+
+// console.log(compareEquality(10, "10"))
+// console.log(compareEquality(20, "20"))
+// console.log(compareEquality(10, 10))
