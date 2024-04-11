@@ -64,3 +64,31 @@ b = a; */
 // let fact = "is cool!";
 // fact = "is awesome!";
 // console.log(FCC, fact);
+
+// 11) Add Two Numbers with JavaScript
+
+// const sum = 15 + 5;
+
+// 12) Subtract Two Numbers with JavaScript
+
+// const difference = 45 - 33;
+
+// 13) Multiplay Two Numbers with JavaScript
+// const product = 8 * 10;
+
+// 14) Divide Two Numbers with JavaScript
+
+// const quotient = 66 / 33;
+
+// 15) Increment a Number with JavaScript
+
+// let myVar = 87;
+
+// myVar++;
+
+// 16) Decrement a Number with JavaScript
+
+// let myVar = 11;
+
+// myVar--;
+
