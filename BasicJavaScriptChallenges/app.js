@@ -92,3 +92,82 @@ b = a; */
 
 // myVar--;
 
+// 17) Create Decimal Numbers with JavaScript
+
+// Question: Create a variable myDecimal and give it a decimal value with a fractional part (e.g. 5.7).
+
+// Answer: const ourDecimal = 5.7;
+
+// let myDecimal = ourDecimal;
+
+// 18) Multiply Two Decimals with JavaScript
+
+// Question: Change the 0.0 so that product will equal 5.0.
+
+// Answer: const product = 2.0 * 2.5;
+
+// 19) Divide One Decimal by Another with JavaScript
+
+// Question: Change the 0.0 so that quotient will equal to 2.2.
+
+// Answer: const quotient = 0.0 / 2.0;
+
+// 20 Finding a Remainder in JavaScript
+
+// Question: Set remainder equal to the remainder of 11 divided by 3 using the remainder (%) operator.
+
+// Answer: const remainder = 11%3;
+
+// 21 Compound Assignment With Augmented Addition
+
+// Question: Convert the assignments for a, b, and c to use the += operator.
+// Before
+// let a = 3;
+// let b = 17;
+// let c = 12;
+
+// a = a + 12;
+// b = 9 + b;
+// c = c + 7;
+// After
+// Answre :
+// let a = 3;
+// let b = 17;
+// let c = 12;
+
+// a +=  12;
+// b += 9 ;
+// c +=  7;
+// 22 Compound Assignment With Augmented Subtraction
+// Question: Convert the assignments for a, b, and c to use the -= operator.
+// Answer:
+// let a = 11;
+// let b = 9;
+// let c = 3;
+
+// a -=  6;
+// b -=  15;
+// c -=  1;
+// 23 Compound Assignment With Augmented Multiplication
+// Question :Convert the assignments for a, b, and c to use the *= operator.
+
+// Answer: 
+// let a = 5;
+// let b = 12;
+// let c = 4.6;
+
+// a *= 5;
+// b *= 3 ;
+// c *=  10;
+// 24 Compound Assignment With Augmented Divisin
+
+// Question:Convert the assignments for a, b, and c to use the /= operator.
+
+// let a = 48;
+// let b = 108;
+// let c = 33;
+
+// // Only change code below this line
+// a /=  12;
+// b /=  4;
+// c /=  11;
